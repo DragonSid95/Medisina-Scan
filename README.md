@@ -100,7 +100,7 @@ offline Android mobile application built with Flutter/Dart for on-device
 pharmaceutical drug identification without internet connectivity.
 
 A live demo of the project is available at:  
-https://github.com/DragonSid95/Medisina-Scan/releases/download/v1.0.0/Medisina.Scan.beta.apk)
+https://github.com/DragonSid95/Medisina-Scan/releases/download/v1.0.0/Medisina.Scan.beta.apk
 
 ---
 
