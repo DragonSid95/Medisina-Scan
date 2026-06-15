@@ -1,0 +1,151 @@
+condition,file,true,predicted,confidence,inf_ms,correct
+Fluorescent Light,Alaxan_FL_FS (1).jpg,Alaxan,Alaxan,49.76,8.23,True
+Fluorescent Light,Alaxan_FL_FS (2).jpg,Alaxan,Alaxan,53.38,6.4,True
+Fluorescent Light,Alaxan_FL_FS (3).jpg,Alaxan,Alaxan,36.38,6.21,True
+Fluorescent Light,Alaxan_FL_FS (4).jpg,Alaxan,Alaxan,48.48,6.84,True
+Fluorescent Light,Alaxan_FL_FS (5).jpg,Alaxan,Alaxan,67.44,6.38,True
+Fluorescent Light,Alaxan_FL_H (1).jpg,Alaxan,Alaxan,34.24,6.25,True
+Fluorescent Light,Alaxan_FL_H (2).jpg,Alaxan,Fish Oil,34.1,6.11,False
+Fluorescent Light,Alaxan_FL_H (3).jpg,Alaxan,Alaxan,30.08,6.58,True
+Fluorescent Light,Alaxan_FL_H (4).jpg,Alaxan,Alaxan,40.23,6.17,True
+Fluorescent Light,Alaxan_FL_H (5).jpg,Alaxan,Alaxan,51.39,6.52,True
+Fluorescent Light,Alaxan_FL_TP (1).jpg,Alaxan,Alaxan,78.46,6.36,True
+Fluorescent Light,Alaxan_FL_TP (5).jpg,Alaxan,Alaxan,40.27,6.6,True
+Fluorescent Light,Alaxan_FL_TP (6).jpg,Alaxan,Alaxan,59.11,7.02,True
+Fluorescent Light,Alaxan_FL_TP (7).jpg,Alaxan,Alaxan,49.52,6.68,True
+Fluorescent Light,Alaxan_FL_TP (8).jpg,Alaxan,Alaxan,64.5,6.21,True
+Fluorescent Light,Bactidol_FL_FS (1).jpg,Bactidol,Bactidol,71.64,6.51,True
+Fluorescent Light,Bactidol_FL_FS (2).jpg,Bactidol,Bactidol,77.62,6.71,True
+Fluorescent Light,Bactidol_FL_FS (3).jpg,Bactidol,Bactidol,43.34,6.16,True
+Fluorescent Light,Bactidol_FL_FS (4).jpg,Bactidol,Medicol,34.69,6.61,False
+Fluorescent Light,Bactidol_FL_FS (5).jpg,Bactidol,Bactidol,70.56,6.24,True
+Fluorescent Light,Bactidol_FL_H (1).jpg,Bactidol,Bactidol,35.16,6.36,True
+Fluorescent Light,Bactidol_FL_H (2).jpg,Bactidol,Bactidol,88.65,6.51,True
+Fluorescent Light,Bactidol_FL_H (3).jpg,Bactidol,Bactidol,85.26,6.47,True
+Fluorescent Light,Bactidol_FL_H (4).jpg,Bactidol,Medicol,41.35,6.27,False
+Fluorescent Light,Bactidol_FL_H (5).jpg,Bactidol,Bactidol,55.38,6.66,True
+Fluorescent Light,Bactidol_FL_TP (1).jpg,Bactidol,Medicol,38.5,6.71,False
+Fluorescent Light,Bactidol_FL_TP (2).jpg,Bactidol,Medicol,42.74,6.56,False
+Fluorescent Light,Bactidol_FL_TP (3).jpg,Bactidol,Medicol,62.14,6.04,False
+Fluorescent Light,Bactidol_FL_TP (4).jpg,Bactidol,Medicol,40.84,6.27,False
+Fluorescent Light,Bactidol_FL_TP (5).jpg,Bactidol,Medicol,33.63,6.33,False
+Fluorescent Light,Bioflu_FL_FS (1).jpg,Bioflu,Bioflu,96.16,6.09,True
+Fluorescent Light,Bioflu_FL_FS (2).jpg,Bioflu,Bioflu,94.01,6.76,True
+Fluorescent Light,Bioflu_FL_FS (3).jpg,Bioflu,Bioflu,87.06,6.81,True
+Fluorescent Light,Bioflu_FL_FS (4).jpg,Bioflu,Bioflu,90.62,6.74,True
+Fluorescent Light,Bioflu_FL_FS (5).jpg,Bioflu,Bioflu,92.35,7.2,True
+Fluorescent Light,Bioflu_FL_H (1).jpg,Bioflu,Bioflu,56.41,6.71,True
+Fluorescent Light,Bioflu_FL_H (2).jpg,Bioflu,Bioflu,82.2,6.77,True
+Fluorescent Light,Bioflu_FL_H (3).jpg,Bioflu,Bioflu,66.27,7.07,True
+Fluorescent Light,Bioflu_FL_H (4).jpg,Bioflu,Bioflu,67.11,6.29,True
+Fluorescent Light,Bioflu_FL_H (5).jpg,Bioflu,Bioflu,68.51,7.22,True
+Fluorescent Light,Bioflu_FL_TP (1).jpg,Bioflu,Bioflu,72.32,6.3,True
+Fluorescent Light,Bioflu_FL_TP (2).jpg,Bioflu,Bioflu,58.3,6.23,True
+Fluorescent Light,Bioflu_FL_TP (3).jpg,Bioflu,Bioflu,86.98,6.76,True
+Fluorescent Light,Bioflu_FL_TP (4).jpg,Bioflu,Bioflu,67.97,6.71,True
+Fluorescent Light,Bioflu_FL_TP (5).jpg,Bioflu,Bioflu,50.0,6.12,True
+Fluorescent Light,Biogesic_FL_FS (1).jpg,Biogesic,Biogesic,34.86,6.5,True
+Fluorescent Light,Biogesic_FL_FS (2).jpg,Biogesic,Biogesic,95.74,6.28,True
+Fluorescent Light,Biogesic_FL_FS (3).jpg,Biogesic,Biogesic,54.67,6.75,True
+Fluorescent Light,Biogesic_FL_FS (4).jpg,Biogesic,Biogesic,59.75,7.14,True
+Fluorescent Light,Biogesic_FL_FS (5).jpg,Biogesic,Biogesic,79.9,6.8,True
+Fluorescent Light,Biogesic_FL_H (1).jpg,Biogesic,Biogesic,48.53,7.03,True
+Fluorescent Light,Biogesic_FL_H (2).jpg,Biogesic,Biogesic,63.19,6.76,True
+Fluorescent Light,Biogesic_FL_H (3).jpg,Biogesic,Biogesic,91.56,7.2,True
+Fluorescent Light,Biogesic_FL_H (4).jpg,Biogesic,Biogesic,68.85,6.95,True
+Fluorescent Light,Biogesic_FL_H (5).jpg,Biogesic,Biogesic,24.35,6.83,True
+Fluorescent Light,Biogesic_FL_TP (1).jpg,Biogesic,Biogesic,85.12,7.79,True
+Fluorescent Light,Biogesic_FL_TP (2).jpg,Biogesic,Biogesic,52.11,6.45,True
+Fluorescent Light,Biogesic_FL_TP (3).jpg,Biogesic,Biogesic,67.77,6.5,True
+Fluorescent Light,Biogesic_FL_TP (4).jpg,Biogesic,Biogesic,75.64,6.72,True
+Fluorescent Light,Biogesic_FL_TP (5).jpg,Biogesic,Biogesic,81.76,6.52,True
+Fluorescent Light,DayZinc_FL_FS (1).jpg,DayZinc,DayZinc,65.91,7.03,True
+Fluorescent Light,DayZinc_FL_FS (2).jpg,DayZinc,DayZinc,77.78,6.77,True
+Fluorescent Light,DayZinc_FL_FS (3).jpg,DayZinc,DayZinc,79.33,6.67,True
+Fluorescent Light,DayZinc_FL_FS (4).jpg,DayZinc,DayZinc,29.36,6.9,True
+Fluorescent Light,DayZinc_FL_FS (5).jpg,DayZinc,DayZinc,82.05,6.61,True
+Fluorescent Light,DayZinc_FL_H (1).jpg,DayZinc,DayZinc,76.59,6.74,True
+Fluorescent Light,DayZinc_FL_H (2).jpg,DayZinc,DayZinc,50.01,6.98,True
+Fluorescent Light,DayZinc_FL_H (3).jpg,DayZinc,DayZinc,56.16,6.92,True
+Fluorescent Light,DayZinc_FL_H (4).jpg,DayZinc,DayZinc,48.61,7.3,True
+Fluorescent Light,DayZinc_FL_H (5).jpg,DayZinc,DayZinc,47.04,6.27,True
+Fluorescent Light,DayZinc_FL_TP (1).jpg,DayZinc,DayZinc,54.13,6.38,True
+Fluorescent Light,DayZinc_FL_TP (2).jpg,DayZinc,DayZinc,85.8,6.85,True
+Fluorescent Light,DayZinc_FL_TP (3).jpg,DayZinc,DayZinc,54.63,7.99,True
+Fluorescent Light,DayZinc_FL_TP (4).jpg,DayZinc,DayZinc,76.57,6.51,True
+Fluorescent Light,DayZinc_FL_TP (5).jpg,DayZinc,DayZinc,58.87,6.51,True
+Fluorescent Light,Decolgen_FL_FS (1).jpg,Decolgen,Decolgen,94.31,6.32,True
+Fluorescent Light,Decolgen_FL_FS (2).jpg,Decolgen,Decolgen,95.5,6.15,True
+Fluorescent Light,Decolgen_FL_FS (3).jpg,Decolgen,Decolgen,74.47,6.45,True
+Fluorescent Light,Decolgen_FL_FS (4).jpg,Decolgen,Decolgen,75.78,6.29,True
+Fluorescent Light,Decolgen_FL_FS (5).jpg,Decolgen,Decolgen,91.37,6.58,True
+Fluorescent Light,Decolgen_FL_H (1).jpg,Decolgen,Decolgen,94.27,6.37,True
+Fluorescent Light,Decolgen_FL_H (2).jpg,Decolgen,Decolgen,82.24,6.35,True
+Fluorescent Light,Decolgen_FL_H (3).jpg,Decolgen,Decolgen,84.25,6.11,True
+Fluorescent Light,Decolgen_FL_H (4).jpg,Decolgen,Decolgen,91.04,6.64,True
+Fluorescent Light,Decolgen_FL_H (5).jpg,Decolgen,Decolgen,80.39,6.54,True
+Fluorescent Light,Decolgen_FL_TP (1).jpg,Decolgen,Decolgen,89.68,6.8,True
+Fluorescent Light,Decolgen_FL_TP (2).jpg,Decolgen,Decolgen,95.18,6.79,True
+Fluorescent Light,Decolgen_FL_TP (3).jpg,Decolgen,Decolgen,94.92,6.53,True
+Fluorescent Light,Decolgen_FL_TP (4).jpg,Decolgen,Decolgen,88.68,6.46,True
+Fluorescent Light,Decolgen_FL_TP (5).jpg,Decolgen,Decolgen,86.23,6.72,True
+Fluorescent Light,FishOil_FL_FS (1).jpg,Fish Oil,Fish Oil,52.0,7.14,True
+Fluorescent Light,FishOil_FL_FS (2).jpg,Fish Oil,Fish Oil,47.23,6.35,True
+Fluorescent Light,FishOil_FL_FS (3).jpg,Fish Oil,Fish Oil,85.29,6.68,True
+Fluorescent Light,FishOil_FL_FS (4).jpg,Fish Oil,Fish Oil,50.11,6.4,True
+Fluorescent Light,FishOil_FL_FS (5).jpg,Fish Oil,Fish Oil,41.38,6.42,True
+Fluorescent Light,FishOil_FL_H (1).jpg,Fish Oil,Fish Oil,39.54,6.73,True
+Fluorescent Light,FishOil_FL_H (2).jpg,Fish Oil,Fish Oil,53.63,6.67,True
+Fluorescent Light,FishOil_FL_H (3).jpg,Fish Oil,Fish Oil,40.04,6.44,True
+Fluorescent Light,FishOil_FL_H (4).jpg,Fish Oil,Fish Oil,79.96,6.43,True
+Fluorescent Light,FishOil_FL_H (5).jpg,Fish Oil,Fish Oil,89.65,6.26,True
+Fluorescent Light,FishOil_FL_TP (1).jpg,Fish Oil,Fish Oil,91.12,6.34,True
+Fluorescent Light,FishOil_FL_TP (2).jpg,Fish Oil,Fish Oil,91.63,6.93,True
+Fluorescent Light,FishOil_FL_TP (3).jpg,Fish Oil,Fish Oil,84.87,6.25,True
+Fluorescent Light,FishOil_FL_TP (4).jpg,Fish Oil,Fish Oil,80.54,6.31,True
+Fluorescent Light,FishOil_FL_TP (5).jpg,Fish Oil,Fish Oil,45.14,6.35,True
+Fluorescent Light,KremilS_FL_FS (1).jpg,Kremil S,Kremil S,90.47,6.96,True
+Fluorescent Light,KremilS_FL_FS (2).jpg,Kremil S,Kremil S,87.51,7.1,True
+Fluorescent Light,KremilS_FL_FS (3).jpg,Kremil S,Kremil S,85.19,7.13,True
+Fluorescent Light,KremilS_FL_FS (4).jpg,Kremil S,Kremil S,90.22,6.8,True
+Fluorescent Light,KremilS_FL_FS (5).jpg,Kremil S,Kremil S,90.63,6.48,True
+Fluorescent Light,KremilS_FL_H (1).jpg,Kremil S,Kremil S,76.89,6.69,True
+Fluorescent Light,KremilS_FL_H (2).jpg,Kremil S,Kremil S,79.72,6.53,True
+Fluorescent Light,KremilS_FL_H (3).jpg,Kremil S,Kremil S,71.23,6.4,True
+Fluorescent Light,KremilS_FL_H (4).jpg,Kremil S,Kremil S,70.31,6.28,True
+Fluorescent Light,KremilS_FL_H (5).jpg,Kremil S,Kremil S,80.35,6.18,True
+Fluorescent Light,KremilS_FL_TP (1).jpg,Kremil S,Kremil S,68.52,6.46,True
+Fluorescent Light,KremilS_FL_TP (2).jpg,Kremil S,Kremil S,85.31,6.24,True
+Fluorescent Light,KremilS_FL_TP (3).jpg,Kremil S,Kremil S,91.44,6.56,True
+Fluorescent Light,KremilS_FL_TP (4).jpg,Kremil S,Kremil S,91.46,6.41,True
+Fluorescent Light,KremilS_FL_TP (5).jpg,Kremil S,Kremil S,84.24,6.3,True
+Fluorescent Light,Medicol_FL_FS (1).jpg,Medicol,Medicol,62.8,6.66,True
+Fluorescent Light,Medicol_FL_FS (2).jpg,Medicol,Medicol,87.54,6.14,True
+Fluorescent Light,Medicol_FL_FS (3).jpg,Medicol,Medicol,70.78,6.27,True
+Fluorescent Light,Medicol_FL_FS (4).jpg,Medicol,Medicol,87.54,6.51,True
+Fluorescent Light,Medicol_FL_FS (5).jpg,Medicol,Medicol,91.64,6.34,True
+Fluorescent Light,Medicol_FL_H (1).jpg,Medicol,Medicol,93.24,6.79,True
+Fluorescent Light,Medicol_FL_H (2).jpg,Medicol,Medicol,90.83,6.77,True
+Fluorescent Light,Medicol_FL_H (3).jpg,Medicol,Fish Oil,49.41,6.51,False
+Fluorescent Light,Medicol_FL_H (4).jpg,Medicol,Medicol,89.02,8.03,True
+Fluorescent Light,Medicol_FL_H (5).jpg,Medicol,Medicol,90.63,6.44,True
+Fluorescent Light,Medicol_FL_TP (1).jpg,Medicol,Fish Oil,31.95,6.58,False
+Fluorescent Light,Medicol_FL_TP (2).jpg,Medicol,Medicol,86.63,6.6,True
+Fluorescent Light,Medicol_FL_TP (3).jpg,Medicol,Medicol,69.24,6.97,True
+Fluorescent Light,Medicol_FL_TP (4).jpg,Medicol,Medicol,88.69,6.25,True
+Fluorescent Light,Medicol_FL_TP (5).jpg,Medicol,Medicol,86.99,6.52,True
+Fluorescent Light,Neozep_FL_FS (1).jpg,Neozep,Neozep,58.66,6.09,True
+Fluorescent Light,Neozep_FL_FS (2).jpg,Neozep,Biogesic,52.02,6.2,False
+Fluorescent Light,Neozep_FL_FS (3).jpg,Neozep,Neozep,88.37,6.25,True
+Fluorescent Light,Neozep_FL_FS (4).jpg,Neozep,Neozep,63.36,6.15,True
+Fluorescent Light,Neozep_FL_FS (5).jpg,Neozep,Neozep,47.69,6.54,True
+Fluorescent Light,Neozep_FL_H (1).jpg,Neozep,Kremil S,30.58,6.6,False
+Fluorescent Light,Neozep_FL_H (2).jpg,Neozep,Neozep,79.68,6.06,True
+Fluorescent Light,Neozep_FL_H (3).jpg,Neozep,Neozep,70.33,6.59,True
+Fluorescent Light,Neozep_FL_H (4).jpg,Neozep,Neozep,73.53,6.68,True
+Fluorescent Light,Neozep_FL_H (5).jpg,Neozep,Neozep,91.12,6.89,True
+Fluorescent Light,Neozep_FL_TP (1).jpg,Neozep,Bioflu,37.94,7.04,False
+Fluorescent Light,Neozep_FL_TP (2).jpg,Neozep,Neozep,34.57,6.49,True
+Fluorescent Light,Neozep_FL_TP (3).jpg,Neozep,Neozep,40.85,6.61,True
+Fluorescent Light,Neozep_FL_TP (4).jpg,Neozep,Neozep,54.83,6.56,True
+Fluorescent Light,Neozep_FL_TP (5).jpg,Neozep,Neozep,58.72,6.39,True
