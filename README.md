@@ -108,7 +108,7 @@ results can be checked without retraining.
   https://www.kaggle.com/datasets/ncvaog/pills-dataset-test
 ## App Download and Installation (Android only)
 
-Download link: [INSERT DOWNLOAD LINK HERE]
+Download link: https://github.com/DragonSid95/Medisina-Scan/releases/download/v1.0.0/Medisina.Scan.beta.apk
 
 1. Open the link on your Android phone and download the `.apk` file.
 2. If prompted that the file might be harmful, tap **Download anyway**.
